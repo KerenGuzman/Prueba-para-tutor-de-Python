@@ -15,6 +15,10 @@ Este proyecto es un juego sencillo implementando PyGame, un módulo de Python pa
 
 5. Pantalla de Inicio y Reinicio: Antes de comenzar el jeugo, se muestra un mensaje de inicio. Después de perder todas las vidas, se mostrará un mensaje fin de juego con el puntaje de monedas obtenidas. Puedes reiniciar el juego presionando la tecla SPACE.
 
+![image](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/ef4997e4-8bfd-428c-bc1f-f4fd75437ff3)
+![image](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/c87545ef-b5a2-48b7-a190-2717b5513ef2)
+
+
  # Instrucciones
 
  1. Iniciar el juego: Debes presionar la tecla SPACE o ESPACIO para iniciar el juego, después de ver el mensaje de inicio.
