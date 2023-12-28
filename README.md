@@ -36,9 +36,7 @@ pip install pygame
 
 ¡Diviértete jugando y trata de obtener la puntuación más alta! 🚀💎🌌
 
-![Imagen1](assets/91639005/8de66795-814d-422f-8266-0ea8c5b5eab9)
-![Imagen2](assets/91639005/2e8573c2-108c-4028-83d9-fe473e36a084)
-![Imagen3](assets/91639005/e13d4924-c094-4dc8-a888-24a3fed884dd)
-![Imagen4](assets/91639005/f8b3af30-49e4-46d5-87f4-3769aae54383)
+
+![NAVE-Y-METEOROS-2023-12-27-20-33-14](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/2a480f49-d45f-483a-8ce5-22429520e39b)
 
 
