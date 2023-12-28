@@ -3,7 +3,7 @@ Prueba para tutor de Python, creación de juego con PyGame - Kodland
 
 Este proyecto es un juego sencillo implementando PyGame, un módulo de Python para desarrollar videojuegos. En el presente juego, controlarás una nave espacial y el objetivo será esquivar los meteoritos mientras se recolectan monedas.
 
-# Funcionalidades principales dle jeugo:
+# Funcionalidades principales del juego:
 
 1. Control de la Nave: Utiliza las teclas de flecha arriba y abajo en tu teclado para controlar la posición verticalmente de la nave y así esquivar los meteoritos.
    
@@ -35,4 +35,9 @@ pip install pygame
 2. Asegúrate de tener el directorio "sprites" con las imágenes necesarias para el fondo, la nave, los meteoritos y las monedas.
 
 ¡Diviértete jugando y trata de obtener la puntuación más alta! 🚀💎🌌
+
+![image](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/8de66795-814d-422f-8266-0ea8c5b5eab9)
+![image](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/2e8573c2-108c-4028-83d9-fe473e36a084)
+![image](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/e13d4924-c094-4dc8-a888-24a3fed884dd)
+![NAVE-Y-METEOROS-2023-12-27-20-33-14](https://github.com/KerenGuzman/Prueba-para-tutor-de-Python/assets/91639005/f8b3af30-49e4-46d5-87f4-3769aae54383)
 
